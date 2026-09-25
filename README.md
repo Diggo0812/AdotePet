@@ -30,7 +30,7 @@ O sistema permitirá cadastrar animais disponíveis para adoção, consultar os 
 
 - Rodrigo Barbosa da Silva R.A 260142952
 - Felipe Carvalho R.A 260095362
-- Thays Ramos Hernandes
+- Thays Ramos Hernandes R.A 260142792
 
 ## 📚 Disciplina
 
